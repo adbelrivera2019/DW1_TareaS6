@@ -1,0 +1,2 @@
+C:\Users\Cristian\Documents\GitHub\DW1_TareaS6\DW1_TareaS6\DW1_TareaS6\DW1_TareaS6\obj\Debug\netstandard2.0\DW1_TareaS6.csproj.AssemblyReference.cache
+C:\Users\Cristian\Documents\GitHub\DW1_TareaS6\DW1_TareaS6\DW1_TareaS6\DW1_TareaS6\obj\Debug\netstandard2.0\DW1_TareaS6.GeneratedMSBuildEditorConfig.editorconfig
