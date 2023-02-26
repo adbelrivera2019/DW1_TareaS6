@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\HolaMundo",
-    "\\HolaMundo\\HolaMundo",
-    "\\HolaMundo\\HolaMundo\\HolaMundo",
-    "\\HolaMundo\\HolaMundo\\HolaMundo.Android"
+    "\\DW1_TareaS6",
+    "\\DW1_TareaS6\\DW1_TareaS6",
+    "\\DW1_TareaS6\\DW1_TareaS6\\DW1_TareaS6",
+    "\\DW1_TareaS6\\DW1_TareaS6\\DW1_TareaS6\\Models",
+    "\\DW1_TareaS6\\DW1_TareaS6\\DW1_TareaS6\\ViewModel"
   ],
-  "SelectedNode": "\\HolaMundo\\HolaMundo.sln",
+  "SelectedNode": "\\DW1_TareaS6\\DW1_TareaS6.sln",
   "PreviewInSolutionExplorer": false
 }
